@@ -11,11 +11,11 @@ header {
   border-bottom: 1px solid #cccccc;
 }
 
-header nav {
+header > nav {
   float: right;
 }
 
-nav ul {
+nav > ul {
   padding: 0;
   margin-top: 40px;
   margin: 0, 0, 0, 0;

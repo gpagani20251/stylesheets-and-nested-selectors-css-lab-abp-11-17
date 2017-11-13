@@ -11,12 +11,12 @@ header {
   border-bottom: 1px solid #cccccc;
 }
 
-#header nav {
+header nav {
   float: right;
 }
 
-#nav ul {
-  padding: 0;
+nav ul {
+  padding: 0 0 0 0;
   margin: 40px 0 0 0;
 }
 
@@ -25,13 +25,13 @@ nav ul li {
   margin-right: 10px;
 }
 
-#nav a {
+nav a {
   text-decoration: none;
   color: #007bff;
   font-size: 18px;
 }
 
-#header h3 {
+header h3 {
 float: left;
 font-size: 30px;
 }
